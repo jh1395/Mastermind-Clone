@@ -1,0 +1,7 @@
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\bin\Debug\Mastermind Clone.exe.config
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\bin\Debug\Mastermind Clone.exe
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\bin\Debug\Mastermind Clone.pdb
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\obj\Debug\Mastermind Clone.csprojAssemblyReference.cache
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\obj\Debug\Mastermind Clone.csproj.CoreCompileInputs.cache
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\obj\Debug\Mastermind Clone.exe
+C:\Users\Franz\source\repos\Mastermind Clone\Mastermind Clone\obj\Debug\Mastermind Clone.pdb
